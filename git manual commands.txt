@@ -1,0 +1,17 @@
+
+//to make file git 
+git init
+
+//to check the status of files
+git status
+
+//to add the filename 
+git add //your filename
+
+//to make file commit after staging 
+git commit -m "initial commit"
+
+
+//to check the logs
+gitlog
+
